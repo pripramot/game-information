@@ -21,9 +21,7 @@
 </div>
 
 <div align="center">
-  <a aria-label="ELK" 
-    <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
-  </a>
+  <img src="https://github.com/pripramot/game-information/blob/main/HULA%20BALUA%20-%20Google%20Chrome%2030_6_2567%2020_29_52.png" alt="ELK" />
 </div>
 
 
