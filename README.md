@@ -5,6 +5,27 @@
 - เพื่อการศึกษา ทักษะการเขียนโปรแกรมเบื้องต้น เท่านั้น
 ### Jiraphinya Lnc
 
+<div align="center">
+  <a aria-label="Join the community on Slack" href="https://mtify.hashnode.dev">
+    <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Github-Pripramot-blue?logo=ankermake&logoColor=blue" alt="mu_ - Pripramot badge">
+  </a>
+  <a href="https://github.com/ai-jiraphinya">
+    <img src="https://img.shields.io/badge/Mint_-Jiraphinya-blue?link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya" alt="Mint_ - Jiraphinya badge">
+  </a>
+  <a href="https://github.com/pripramot/pripramot/watchers">
+    <img src="https://img.shields.io/github/watchers/pripramot/pripramot" alt="GitHub watchers badge">
+  </a>
+</div>
+
+<div align="center">
+  <a aria-label="ELK" 
+    <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
+  </a>
+</div>
+
 
 ```js
 
