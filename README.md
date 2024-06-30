@@ -3,6 +3,8 @@
 
 ## Hula Balua Free Play in Demo Mode
 - เพื่อการศึกษา ทักษะการเขียนโปรแกรมเบื้องต้น เท่านั้น
+- หากต้องการตั้งค่าเหรียญ ตามพื้นที่ให้บริการ สร้าง login user ตามต้องการ
+- Original ไม่ปรับระดับความยากง่าย
 ### Jiraphinya Lnc
 
 <div align="center">
@@ -19,7 +21,7 @@
     <img src="https://img.shields.io/github/watchers/pripramot/pripramot" alt="GitHub watchers badge">
   </a>
 </div>
-
+<br
 <div align="center">
   <a href="https://static-stage.contentmedia.eu/ecf3/index.html?gameid=10199&operatorid=44&currency=EUR&mode=demo&device=desktop&gamename=hulabalua&language=en_gb&xdm=1&capi=https%3A%2F%2Fgc5-stage.contentmedia.eu%2Fcapi&papi=https%3A%2F%2Fpapi-stage.contentmedia.eu">
   <img src="https://github.com/pripramot/game-information/blob/main/HULA%20BALUA%20-%20Google%20Chrome%2030_6_2567%2020_29_52.png" alt="ELK" />
