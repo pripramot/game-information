@@ -21,7 +21,9 @@
 </div>
 
 <div align="center">
+  <a href="https://static-stage.contentmedia.eu/ecf3/index.html?gameid=10199&operatorid=44&currency=EUR&mode=demo&device=desktop&gamename=hulabalua&language=en_gb&xdm=1&capi=https%3A%2F%2Fgc5-stage.contentmedia.eu%2Fcapi&papi=https%3A%2F%2Fpapi-stage.contentmedia.eu">
   <img src="https://github.com/pripramot/game-information/blob/main/HULA%20BALUA%20-%20Google%20Chrome%2030_6_2567%2020_29_52.png" alt="ELK" />
+  </a>
 </div>
 
 
